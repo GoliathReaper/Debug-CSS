@@ -18,7 +18,7 @@ Debug-CSS applies a semi-transparent background color and outline to all element
 
 ## CSS Code
 
-\`\`\`css
+```css
 /*! debug.css | MIT License | zaydek.github.com/debug.css */
 *:not(path):not(g) {
     color:                    hsla(210, 100%, 100%, 0.9) !important;
@@ -27,11 +27,7 @@ Debug-CSS applies a semi-transparent background color and outline to all element
 
     box-shadow: none !important;
 }
-\`\`\`
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
+```
 
 ## License
 
