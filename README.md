@@ -6,9 +6,9 @@ Debug-CSS is a simple CSS file that helps you debug CSS alignment issues in your
 
 To use Debug-CSS in your project, simply include the following line in your HTML file:
 
-\`\`\`html
+```html
 <link rel="stylesheet" href="[https://raw.githubusercontent.com/yourusername/Debug-CSS/main/debug.css](https://github.com/GoliathReaper/Debug-CSS/raw/refs/heads/main/debug.css)">
-\`\`\`
+```
 
 Or, you can copy the contents of `debug.css` into your own stylesheet.
 
