@@ -1,2 +1,2 @@
 # Debug-CSS
-An CSS file to debug the CSS alignment
+An CSS file to debug CSS alignment
